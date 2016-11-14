@@ -1,4 +1,4 @@
-package com.raj;
+package com.raj.restdocs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
